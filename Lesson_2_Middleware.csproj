@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Middlewares\" />
+    <None Remove="Views\" />
+    <None Remove="wwwroot\" />
+    <None Remove="Middlewares\Abstracts\" />
+    <None Remove="Middlewares\Concretes\" />
+    <None Remove="Hosts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Middlewares\" />
+    <Folder Include="Views\" />
+    <Folder Include="wwwroot\" />
+    <Folder Include="Middlewares\Abstracts\" />
+    <Folder Include="Middlewares\Concretes\" />
+    <Folder Include="Hosts\" />
+  </ItemGroup>
+</Project>

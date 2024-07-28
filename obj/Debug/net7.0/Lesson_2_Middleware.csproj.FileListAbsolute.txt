@@ -1,0 +1,14 @@
+/Users/fermayilhesenov/Projects/Lesson_2_Middleware/Lesson_2_Middleware/bin/Debug/net7.0/Lesson_2_Middleware
+/Users/fermayilhesenov/Projects/Lesson_2_Middleware/Lesson_2_Middleware/bin/Debug/net7.0/Lesson_2_Middleware.deps.json
+/Users/fermayilhesenov/Projects/Lesson_2_Middleware/Lesson_2_Middleware/bin/Debug/net7.0/Lesson_2_Middleware.runtimeconfig.json
+/Users/fermayilhesenov/Projects/Lesson_2_Middleware/Lesson_2_Middleware/bin/Debug/net7.0/Lesson_2_Middleware.dll
+/Users/fermayilhesenov/Projects/Lesson_2_Middleware/Lesson_2_Middleware/bin/Debug/net7.0/Lesson_2_Middleware.pdb
+/Users/fermayilhesenov/Projects/Lesson_2_Middleware/Lesson_2_Middleware/obj/Debug/net7.0/Lesson_2_Middleware.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fermayilhesenov/Projects/Lesson_2_Middleware/Lesson_2_Middleware/obj/Debug/net7.0/Lesson_2_Middleware.AssemblyInfoInputs.cache
+/Users/fermayilhesenov/Projects/Lesson_2_Middleware/Lesson_2_Middleware/obj/Debug/net7.0/Lesson_2_Middleware.AssemblyInfo.cs
+/Users/fermayilhesenov/Projects/Lesson_2_Middleware/Lesson_2_Middleware/obj/Debug/net7.0/Lesson_2_Middleware.csproj.CoreCompileInputs.cache
+/Users/fermayilhesenov/Projects/Lesson_2_Middleware/Lesson_2_Middleware/obj/Debug/net7.0/Lesson_2_Middleware.dll
+/Users/fermayilhesenov/Projects/Lesson_2_Middleware/Lesson_2_Middleware/obj/Debug/net7.0/refint/Lesson_2_Middleware.dll
+/Users/fermayilhesenov/Projects/Lesson_2_Middleware/Lesson_2_Middleware/obj/Debug/net7.0/Lesson_2_Middleware.pdb
+/Users/fermayilhesenov/Projects/Lesson_2_Middleware/Lesson_2_Middleware/obj/Debug/net7.0/Lesson_2_Middleware.genruntimeconfig.cache
+/Users/fermayilhesenov/Projects/Lesson_2_Middleware/Lesson_2_Middleware/obj/Debug/net7.0/ref/Lesson_2_Middleware.dll
